@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -29,7 +30,7 @@
         <ul class="list-disc list-inside mt-3 space-y-1 text-yellow-200">
           <li>Analyse des marchés : crypto, devises, matières premières 🔍</li>
           <li>Gestion de portefeuilles virtuels & réels 📈</li>
-          <li>Utilisation d’outils pro : TradingView, MT4 🛠</li>
+          <li>Utilisation d’outils pro : TradingView, MT4 🛠️</li>
           <li>Maîtrise du risque & psychologie du marché 🧠</li>
         </ul>
       </div>
@@ -41,10 +42,20 @@
       <div class="flex flex-wrap gap-3">
         <span class="bg-yellow-800 px-3 py-1 rounded-full text-sm">📈 Analyse technique</span>
         <span class="bg-yellow-800 px-3 py-1 rounded-full text-sm">🪙 Crypto-trading</span>
-        <span class="bg-yellow-800 px-3 py-1 rounded-full text-sm">🛢 Matières premières</span>
-        <span class="bg-yellow-800 px-3 py-1 rounded-full text-sm">⚖ Gestion du risque</span>
-        <span class="bg-yellow-800 px-3 py-1 rounded-full text-sm">🖥 MT4 & TradingView</span>
+        <span class="bg-yellow-800 px-3 py-1 rounded-full text-sm">🛢️ Matières premières</span>
+        <span class="bg-yellow-800 px-3 py-1 rounded-full text-sm">⚖️ Gestion du risque</span>
+        <span class="bg-yellow-800 px-3 py-1 rounded-full text-sm">🖥️ MT4 & TradingView</span>
       </div>
+    </section>
+
+    <!-- À propos -->
+    <section>
+      <h2 class="text-2xl font-bold mb-3">🌟 À propos de Burns Trading</h2>
+      <p class="text-yellow-300 leading-relaxed">
+        Burns Trading est une initiative personnelle dédiée à l’exploration des marchés financiers modernes. 
+        Mon approche est basée sur la rigueur, la gestion du risque, et une lecture constante des tendances globales.
+        L’objectif est de construire une activité durable et transparente, axée sur les actifs numériques et réels.
+      </p>
     </section>
 
     <!-- Contact -->
