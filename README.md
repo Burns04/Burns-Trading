@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -53,7 +52,7 @@
       <h2 class="text-2xl font-bold mb-3">📩 Contact</h2>
       <ul class="space-y-1 text-yellow-300">
         <li>📧 <a href="mailto:prokeschburns04@gmail.com" class="text-yellow-400 underline">prokeschburns04@gmail.com</a></li>
-        <li>📱 ‪+509 46 00 2685‬</li>
+        <li>📱 +509 46 00 2685</li>
         <li>🌐 <a href="https://github.com/tonprofil" class="underline">GitHub</a> | <a href="https://linkedin.com/in/tonprofil" class="underline">LinkedIn</a></li>
       </ul>
     </section>
